@@ -33,7 +33,7 @@
 
   Primary key: Roll No.
 
-## Benifits of using JSONDB:
+## Benefits of using JSONDB:
 - Simplest way to retrieve data in a JSON format.
 - Schema-free, Simple to use, Nimble and In-Memory database.
 - It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
